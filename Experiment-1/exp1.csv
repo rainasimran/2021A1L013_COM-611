@@ -1,0 +1,5 @@
+Male,High,High,Positive
+Female,Normal,High,Positive
+Male,Low,Low,Negative
+Female,High,Normal,Positive
+Male,Normal,Low,Negative
